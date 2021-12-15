@@ -1,1 +1,2 @@
 First line of text created
+Second line of text created
